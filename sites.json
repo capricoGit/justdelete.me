@@ -4533,5 +4533,16 @@
             "my.zurker.com",
             "zurker.com"
         ]
-    }
+    },
+    
+    {
+        "name": "Younited by F-Secure",
+        "url": "http://community.f-secure.com/t5/younited/How-can-I-end-my-subscription/ta-p/52317",
+        "difficulty": "impossible",
+        "notes": "Younited account can be connected to other F-Secure products, services and community. Unfortunately it isn't possible to delete any of those accounts and they won't delete automatically after inactivity.", 
+        "domains": [
+            "https://www.younited.com",
+            
+        ]
+    },
 ]
